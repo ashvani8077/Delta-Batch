@@ -1,0 +1,16 @@
+h1{
+    text-align: center;
+    text-decoration:dotted red underline;
+    letter-spacing: 5px;
+}
+h3{
+    text-align: right;
+    text-decoration:blue line-through;
+}
+p{
+    text-align: right;
+}
+
+h2{
+    font-weight: normal;
+}

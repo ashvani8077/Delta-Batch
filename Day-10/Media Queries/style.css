@@ -1,0 +1,18 @@
+h1{
+    background-color: yellow;
+    background-color: 2px solid black;
+}
+
+@media(min-width:400px){
+    h1{
+        background-color: red;
+        color: wheat;
+    }
+}
+
+@media(orientation:landscape){
+    h1{
+        background-color: black;
+        color: white;
+    }
+}

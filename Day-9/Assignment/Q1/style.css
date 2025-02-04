@@ -1,0 +1,17 @@
+.container{
+    height: 400px;
+    width: 400px;
+    border: 2px solid rgb(11, 82, 64);
+    border-radius: 20px;
+    display: flex;
+    flex-wrap: wrap;
+}
+.child{
+    border-radius: 10px;
+    height: 100px;
+    width: 100px;
+    font-size: 50px;
+    text-align: center;
+    background-color: grey;
+    margin: 15px;
+}

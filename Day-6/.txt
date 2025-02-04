@@ -1,0 +1,12 @@
+selectors,
+element,
+id,
+class,
+descendent selectors,
+sibling,
+child,
+attribute,
+pseudo class,
+pseudo element,
+cascading and specificity,
+combinator

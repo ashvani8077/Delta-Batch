@@ -1,0 +1,9 @@
+learn about flex box,
+justify content,
+flex direction,
+flex wrap,
+align item,
+align content,
+align self,
+flex sizing,
+flex shorthand

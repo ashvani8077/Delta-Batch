@@ -1,0 +1,12 @@
+Alpha and opacity,
+transitions,
+transforms,
+rotate,
+scale,
+translate,
+skew,
+box shadow,
+background image,
+card hover effect,
+position,
+simply smiley face

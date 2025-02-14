@@ -1,0 +1,6 @@
+functions,
+return,
+scope--
+    1-Function scope
+    2-Block scope
+    3-Lexical scope

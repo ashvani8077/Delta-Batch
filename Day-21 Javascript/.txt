@@ -1,0 +1,6 @@
+foreach loop
+map and filter,
+every and some,
+reduce,
+default value,
+spread,
